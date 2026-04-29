@@ -3,6 +3,8 @@
 
 This project analyzes the Brazilian e-commerce dataset from Olist to uncover customer behavior, sales trends, and delivery performance insights.
 The analysis is performed using SQL, Excel, Power BI, and Tableau.
+
+
 🧩 Data Model
 
 The dataset follows a relational data model consisting of multiple interconnected tables.
